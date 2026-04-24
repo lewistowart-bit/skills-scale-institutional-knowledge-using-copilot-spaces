@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Scrum Master: facilitates agile ceremonies and removes impediments.
+- Release Manager: owns release readiness, deployment windows, and release notes.
+- UX/UI Designer: translates user needs into designs and specs for development.
+- Technical Writer: creates and maintains user-facing and developer-facing documentation.
+- Business Analyst: bridges business needs and technical solutions; owns acceptance criteria.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for full role definitions and [Ownership and Handoffs](octoacme-ownership-and-handoffs.md) for the RACI matrix and handoff checklists.
 
 ## Key Artifacts
 - Project Charter / One-pager
